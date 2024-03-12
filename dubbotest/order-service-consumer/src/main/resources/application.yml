@@ -1,0 +1,13 @@
+server:
+  port: 8081
+dubbo:
+  application:
+    name: order-service-consumer
+  registry:
+    protocol: zookeeper
+    address: 8.134.98.156:2181
+  protocol:
+    port: 20081
+    name: dubbo
+  monitor:
+    protocol: registry

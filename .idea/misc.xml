@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/redistest/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmq-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmq-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/xxl-job-2.3.1/xxl-job-2.3.1/pom.xml" />
+        <option value="$PROJECT_DIR$/xxl-job-2.3.1/pom.xml" />
+        <option value="$PROJECT_DIR$/nettytest/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbotest/incubator-dubbo-ops-master-master/dubbo-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbotest/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbotest/user-service-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbotest/incubator-dubbo-ops-master-master/dubbo-monitor-simple/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbotest/order-service-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-plus/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/xxl-job-2.3.1/xxl-job-2.3.1/pom.xml" />
+        <option value="$PROJECT_DIR$/xxl-job-2.3.1/xxl-job-2.3.1/xxl-job-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/xxl-job-2.3.1/xxl-job-2.3.1/xxl-job-core/pom.xml" />
+        <option value="$PROJECT_DIR$/xxl-job-2.3.1/xxl-job-2.3.1/xxl-job-executor-samples/pom.xml" />
+        <option value="$PROJECT_DIR$/xxl-job-2.3.1/xxl-job-2.3.1/xxl-job-executor-samples/xxl-job-executor-sample-frameless/pom.xml" />
+        <option value="$PROJECT_DIR$/xxl-job-2.3.1/xxl-job-2.3.1/xxl-job-executor-samples/xxl-job-executor-sample-springboot/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-monitor-simple" />
+        <module name="xxl-job-executor-sample-springboot" />
+        <module name="order-service-consumer" />
+        <module name="mybatis-plus" />
+        <module name="nettytest" />
+        <module name="user-provider" />
+        <module name="xxl-job-executor-sample-frameless" />
+        <module name="xxl-job-admin" />
+        <module name="xxl-job-core" />
+        <module name="rocketmq-consumer" />
+        <module name="user-service-provider" />
+        <module name="rocketmq-producer" />
+        <module name="redistest" />
+        <module name="dubbo-admin" />
+        <module name="common-interface" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="ch (1)" target="1.8" />
+      <module name="common-interface" target="1.8" />
+      <module name="dubbo-admin" target="1.8" />
+      <module name="dubbo-monitor-simple" target="1.6" />
+      <module name="dubbotest" target="1.8" />
+      <module name="middleware-spring" target="1.8" />
+      <module name="mybatis-plus" target="1.8" />
+      <module name="nettytest" target="1.8" />
+      <module name="order-service-consumer" target="1.8" />
+      <module name="redistest" target="1.8" />
+      <module name="rocketmq-consumer" target="1.8" />
+      <module name="rocketmq-producer" target="1.8" />
+      <module name="user-provider" target="1.8" />
+      <module name="user-service-provider" target="1.8" />
+      <module name="xxl-job" target="1.8" />
+      <module name="xxl-job-admin" target="1.8" />
+      <module name="xxl-job-core" target="1.8" />
+      <module name="xxl-job-executor-sample-frameless" target="1.8" />
+      <module name="xxl-job-executor-sample-springboot" target="1.8" />
+      <module name="xxl-job-executor-samples" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="dubbo-admin" options="-parameters" />
+      <module name="middleware-spring" options="" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27259011-d905-4967-aa25-a9d38ec6d70c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\LocalMavenRepository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../myTools/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="C:\myTools\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Z6hsdR5i6uNC2EKgwrKuLSmU9l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15365653" />
+    <property name="project.structure.side.proportion" value="0.3411919" />
+    <property name="settings.editor.selected.configurable" value="mybatisx.settings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ch.mybatisplus.mapper" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ch.mybatisplus" />
+      <recent name="" />
+      <recent name="service" />
+      <recent name="com.example.rocketmqproducer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\gitee\middleware-spring\nettytest\src\main\resources" />
+      <recent name="C:\gitee\middleware-spring\nettytest" />
+      <recent name="C:\gitee\middleware-spring\dubbotest\order-service-consumer\src\main\resources" />
+      <recent name="C:\gitee\middleware-spring\dubbotest\order-service-consumer\src\main\java\com\ch\order\service" />
+      <recent name="C:\gitee\middleware-spring\rocketmq-producer\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\gitee\middleware-spring\nettytest\src\main\resources" />
+      <recent name="C:\gitee\middleware-spring\nettytest" />
+      <recent name="C:\gitee\middleware-spring\dubbotest" />
+      <recent name="C:\gitee\middleware-spring" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MybatisPlusApplication">
+    <configuration name="HelloClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ch.netty.HelloClient" />
+      <module name="nettytest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ch.netty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ch.netty.HelloServer" />
+      <module name="nettytest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ch.netty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NioBossWorkerServerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ch.nio.NioBossWorkerServerTest" />
+      <module name="nettytest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ch.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NioServerClientTest" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ch.nio.NioServerClientTest" />
+      <module name="nettytest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ch.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NioServerClientTest" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ch.nio.NioServerClientTest" />
+      <module name="nettytest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ch.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPipeline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ch.netty.TestPipeline" />
+      <module name="nettytest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ch.netty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisPlusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mybatis-plus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ch.mybatisplus.MybatisPlusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettytestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nettytest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.nettytest.NettytestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order-service-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ch.order.OrderServiceConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedistestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="redistest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.redistest.RedistestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RocketmqConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rocketmq-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.ch.RocketmqConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RocketmqProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rocketmq-producer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.rocketmqproducer.RocketmqProducerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-service-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ch.userserviceprovider.UserServiceProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XxlJobAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xxl-job-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxl.job.admin.XxlJobAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XxlJobExecutorApplication8081" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xxl-job-executor-sample-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxl.job.executor.XxlJobExecutorApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XxlJobExecutorApplication8082" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xxl-job-executor-sample-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxl.job.executor.XxlJobExecutorApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8082" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <envs>
+        <env name="xxl.job.executor.port" value="9998" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.NioServerClientTest" />
+      <item itemvalue="Application.NioBossWorkerServerTest" />
+      <item itemvalue="Application.HelloServer" />
+      <item itemvalue="Application.HelloClient" />
+      <item itemvalue="Application.TestPipeline" />
+      <item itemvalue="Spring Boot.RocketmqProducerApplication" />
+      <item itemvalue="Spring Boot.XxlJobAdminApplication" />
+      <item itemvalue="Spring Boot.XxlJobExecutorApplication8081" />
+      <item itemvalue="Spring Boot.XxlJobExecutorApplication8082" />
+      <item itemvalue="Spring Boot.UserServiceProviderApplication" />
+      <item itemvalue="Spring Boot.OrderServiceConsumerApplication" />
+      <item itemvalue="Spring Boot.RocketmqConsumerApplication" />
+      <item itemvalue="Spring Boot.NettytestApplication" />
+      <item itemvalue="Spring Boot.MybatisPlusApplication" />
+      <item itemvalue="Spring Boot.RedistestApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestPipeline" />
+        <item itemvalue="Application.HelloClient" />
+        <item itemvalue="Application.HelloServer" />
+        <item itemvalue="Application.NioBossWorkerServerTest" />
+        <item itemvalue="Application.NioServerClientTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27259011-d905-4967-aa25-a9d38ec6d70c" name="Default Changelist" comment="" />
+      <created>1701748644014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701748644014</updated>
+      <workItem from="1701748650693" duration="100000" />
+      <workItem from="1701748793179" duration="1393000" />
+      <workItem from="1701759140583" duration="10235000" />
+      <workItem from="1701782066583" duration="5940000" />
+      <workItem from="1702017716831" duration="12573000" />
+      <workItem from="1702902084071" duration="195000" />
+      <workItem from="1702904025756" duration="5750000" />
+      <workItem from="1704333213705" duration="11760000" />
+      <workItem from="1704697007590" duration="10362000" />
+      <workItem from="1705906260527" duration="1887000" />
+      <workItem from="1706249418065" duration="598000" />
+      <workItem from="1706260500390" duration="598000" />
+      <workItem from="1706434624255" duration="6551000" />
+      <workItem from="1706490912490" duration="26878000" />
+      <workItem from="1706705046647" duration="6894000" />
+      <workItem from="1707010246981" duration="808000" />
+      <workItem from="1707534244933" duration="1186000" />
+      <workItem from="1708412452977" duration="3918000" />
+      <workItem from="1708735072369" duration="6869000" />
+      <workItem from="1708913563787" duration="2705000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="296" y="6" key="#ChApplication" timestamp="1701760238885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="296" y="6" key="#ChApplication/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1701760238885" />
+    <state x="444" y="32" key="#NioServerClientTest" timestamp="1706667072430">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="444" y="32" key="#NioServerClientTest/0.0.1536.824@0.0.1536.824" timestamp="1706667072430" />
+    <state x="161" y="64" width="1164" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1708740450221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="161" y="64" width="1164" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1708740450221" />
+    <state x="223" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1706667381923" />
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1709174067833">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1709174067833" />
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1706747270125" />
+    <state x="2500" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1704531732033">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2500" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1704531732033" />
+    <state x="316" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1708740503442">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="316" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1708740503442" />
+    <state x="527" y="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1708740511441">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="527" y="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1708740511441" />
+    <state x="490" y="155" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1701760284776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="155" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1701760284776" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1704696507802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1704696507802" />
+    <state x="627" y="170" key="#xdebugger.evaluate" timestamp="1706666898827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="627" y="170" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1706666898827" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1706919095111">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1704535201631" />
+    <state x="2606" y="211" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1704531584732" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1706919095111" />
+    <state width="1137" height="308" key="GridCell.Tab.0.bottom" timestamp="1709174556808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="308" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1709174556808" />
+    <state width="1451" height="395" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1704534402975" />
+    <state width="1321" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1706955495773" />
+    <state width="1137" height="308" key="GridCell.Tab.0.center" timestamp="1709174556808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="308" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1709174556808" />
+    <state width="1451" height="395" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1704534402974" />
+    <state width="1321" height="202" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1706955495773" />
+    <state width="1137" height="308" key="GridCell.Tab.0.left" timestamp="1709174556808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="308" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1709174556808" />
+    <state width="1451" height="395" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1704534402973" />
+    <state width="1321" height="202" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1706955495773" />
+    <state width="1137" height="308" key="GridCell.Tab.0.right" timestamp="1709174556808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="308" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1709174556808" />
+    <state width="1451" height="395" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1704534402974" />
+    <state width="1321" height="202" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1706955495773" />
+    <state width="1137" height="308" key="GridCell.Tab.1.bottom" timestamp="1709174556808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="308" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1709174556808" />
+    <state width="1451" height="395" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1704534402976" />
+    <state width="1313" height="271" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1706705020739" />
+    <state width="1137" height="308" key="GridCell.Tab.1.center" timestamp="1709174556808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="308" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1709174556808" />
+    <state width="1451" height="395" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1704534402975" />
+    <state width="1313" height="271" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1706705020738" />
+    <state width="1137" height="308" key="GridCell.Tab.1.left" timestamp="1709174556808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="308" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1709174556808" />
+    <state width="1451" height="395" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1704534402975" />
+    <state width="1313" height="271" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1706705020738" />
+    <state width="1137" height="308" key="GridCell.Tab.1.right" timestamp="1709174556808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="308" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1709174556808" />
+    <state width="1451" height="395" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1704534402976" />
+    <state width="1313" height="271" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1706705020738" />
+    <state width="1137" height="308" key="GridCell.Tab.2.bottom" timestamp="1709174556809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="308" key="GridCell.Tab.2.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1709174556809" />
+    <state width="1451" height="395" key="GridCell.Tab.2.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1704534402977" />
+    <state width="1137" height="308" key="GridCell.Tab.2.center" timestamp="1709174556808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="308" key="GridCell.Tab.2.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1709174556808" />
+    <state width="1451" height="395" key="GridCell.Tab.2.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1704534402976" />
+    <state width="1137" height="308" key="GridCell.Tab.2.left" timestamp="1709174556808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="308" key="GridCell.Tab.2.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1709174556808" />
+    <state width="1451" height="395" key="GridCell.Tab.2.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1704534402976" />
+    <state width="1137" height="308" key="GridCell.Tab.2.right" timestamp="1709174556809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="308" key="GridCell.Tab.2.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1709174556809" />
+    <state width="1451" height="395" key="GridCell.Tab.2.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1704534402977" />
+    <state x="408" y="116" key="NewModule_or_Project.wizard" timestamp="1704535203032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="116" key="NewModule_or_Project.wizard/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1704535203032" />
+    <state x="2430" y="146" key="NewModule_or_Project.wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1704531585931" />
+    <state x="599" y="335" key="NewPhpFileDialog" timestamp="1704696782019">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="599" y="335" key="NewPhpFileDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1704696782019" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1708740372495">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1708740372495" />
+    <state x="2231" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1704531587052" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1706437756888" />
+    <state x="468" y="148" width="903" height="536" key="find.popup" timestamp="1708481576094">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="468" y="148" width="903" height="536" key="find.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1708481576094" />
+    <state x="401" y="73" key="new project wizard" timestamp="1708735443456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="401" y="73" key="new project wizard/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1708735443456" />
+    <state x="2421" y="92" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1704531842606" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1706664730142">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1704698908174" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1706664730142" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nettytest/src/test/com/ch/netty/HelloServer.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

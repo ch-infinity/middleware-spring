@@ -1,0 +1,12 @@
+dubbo:
+  application:
+    name: user-service-provider
+  registry:
+    address: zookeeper://8.134.98.156:2181
+  monitor:
+    protocol: registry
+  protocol:
+    port: 20080
+    name: dubbo
+server:
+  port: 8089
